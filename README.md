@@ -112,6 +112,8 @@ To host your own converter online, check out the open source specifications and 
   - Free for Web
 - [Vectorization.org](https://www.vectorization.org/)
   - Free for Web
+- [Vectorizer](https://github.com/neplextech/vectorizer)
+  - Free for Mac/Win/Lnx
 - [Vectornator](https://www.vectornator.io/learn/images)
   - Free for Mac/iOS/iPad
 - [VTracer](https://www.visioncortex.org/vtracer/)
